@@ -1,3 +1,4 @@
+#plot of all disease trends in the US
 library(dplyr)
 library(ggplot2)
 library(dslabs)
